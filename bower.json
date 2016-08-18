@@ -1,0 +1,17 @@
+{
+    "name": "leaguescript-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Haley Fiege"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/leaguescript-bower.git"
+    },
+    "description": "League Script font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
